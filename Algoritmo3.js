@@ -3,10 +3,7 @@
 o bien si son iguales (recuerda usar la estructura condicional SI)  */
 let A=0;
 let B=0;
-let SUMA=0;
-let RESTA =0;
-let PRODUCTO=0;
-let DIVISION=0;
+
 
 
  A =parseInt(prompt("ingrese el primer numero"));    ;
