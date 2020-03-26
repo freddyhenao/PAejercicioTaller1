@@ -4,7 +4,7 @@
  alert("Algoritmo 2");
 let A=0;
 let B=0;
-let SUMA=0;
+let SUMA;
 let RESTA =0;
 let PRODUCTO=0;
 let DIVISION=0;
