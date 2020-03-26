@@ -1,6 +1,7 @@
 /*
 2) Algoritmo que lea dos números, calculando y escribiendo el valor de
  su suma, resta, producto y división.  */
+ alert("Algoritmo 2");
 let A=0;
 let B=0;
 let SUMA=0;
