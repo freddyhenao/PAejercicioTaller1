@@ -12,7 +12,7 @@ let TNiños=0;
 
 
 
-
+alert("Algoritmo 7-- Un colegio desea saber qué porcentaje de niños y niños hay en el curso actual");
 
  Niños =parseInt(prompt("ingrese el  Numero de Niños")); 
  Niñas =parseInt(prompt("ingrese el  Numero de Niñas"));  

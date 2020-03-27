@@ -8,6 +8,7 @@ let TCompra=0;
 let PDescuento= 0;
 let TotalP=0;
 
+alert("Algoritmo 8-- Una tienda ofrece un descuento del 15% sobre el total de la compra ");
 
  TCompra =parseInt(prompt("ingrese el  total de la compra")); 
  

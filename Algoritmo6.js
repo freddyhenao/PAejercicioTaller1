@@ -13,7 +13,7 @@ let A=0;
 let P=0;
 let R=0;
 
-
+alert("Algoritmo 6-- Ingrese un numero 0 o menor que 0  se saldrá del programa imprimiendo error y si no calcule cuadrado");
 
  A =parseInt(prompt("ingrese el  numero"));    
  
@@ -21,9 +21,11 @@ if (A>0) {
      P = A*A;
      R= Math.sqrt(A);
          alert( "DEL NUMERO  :"+A+"   EL PRODUCTO : "+P+"   LA RAIZ : "+R);
-} else {
-        SUMA = A+B+C
-         alert("ERROR  ");   
-}
+        } 
+else {
+
+     alert("ERROR  ");   
+     
+    }
       
  

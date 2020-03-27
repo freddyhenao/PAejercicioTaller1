@@ -29,6 +29,7 @@
 
 let x=1;
 let resultado=0;
+alert("Algoritmo 12--calcule el cuadrado de los 9 primeros números naturales");
 
 while (x <= 9)
 {

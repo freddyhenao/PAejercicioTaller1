@@ -5,10 +5,10 @@ se vuelva a pedir el número por teclado (así hasta que se teclee un número ma
 */
         let numero=0;
       
-
+        alert("Algoritmo 10-- ingreswe un numero si es cero  se vuelva a pedir el número por teclado");
       
+       numero = parseInt(prompt("ingrese el  numero"));  
 
-       numero = parseInt(prompt("Introduzca un número entero: ")); 
     while (numero =0) {
        
         if (numero !=0 ) {

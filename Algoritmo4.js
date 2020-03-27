@@ -6,7 +6,7 @@ let A=0;
 let B=0;
 let C=0;
 
-
+alert("Algoritmo 4-- De Tres números  nos entrega  cual de ellos es mayor");
 
  A =parseInt(prompt("ingrese el primer numero"));    
  B =parseInt(prompt("ingrese el segundo numero"));

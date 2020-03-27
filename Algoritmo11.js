@@ -7,6 +7,7 @@
 
 let TB=0;
 let x=0;
+alert("Algoritmo 11--La Persona puede acceder a cursar un ciclo formativo de educacion superior");
 
  TB=parseInt(prompt("Si Tiene Titulo Bachiller dijite=1 , sino digite=2")); 
  

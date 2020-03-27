@@ -7,7 +7,7 @@ pantalla si es par o impar. En el caso de ser 0, debe visualizar
 
         let numero;
       
-
+        alert("Algoritmo 9-- Digite un número entero visualice en pantalla si es par o impar ");
       
         numero = parseInt(prompt("Introduzca un número entero: ")); 
         if (numero !=0 ) {

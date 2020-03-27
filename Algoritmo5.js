@@ -9,7 +9,7 @@ let C=0;
 let PRODUCTO=0;
 let SUMA=0;
 
-
+alert("Algoritmo 5--Digite 3 numeros siel primero es negativo  debe imprimir el producto de los los tres y si no lo es imprimiera la suma ");
 
  A =parseInt(prompt("ingrese el primer numero"));    
  B =parseInt(prompt("ingrese el segundo numero"));
